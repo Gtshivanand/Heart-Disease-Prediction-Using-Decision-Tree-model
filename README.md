@@ -34,4 +34,9 @@ This project is a learning experience, and there's always room for improvement. 
 * **Model evaluation:** Evaluate model performance using various metrics beyond accuracy (e.g., precision, recall).
 * **Visualization:** Create visualizations to depict the decision tree structure and model performance.
 
+## Contact
 
+For any inquiries or suggestions, feel free to reach out:
+
+- **Email:** [shivanandnashi97@gmail.com](mailto:shivanandnashi97@gmail.com)
+- **LinkedIn:** [Shivanand Nashi](https://www.linkedin.com/in/shivanand-s-nashi-79579821a)
