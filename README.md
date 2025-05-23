@@ -1,5 +1,7 @@
 # Heart-Disease-Prediction-using-Desicion-Trees
 
+<img src="https://github.com/Gtshivanand/Heart-Disease-Prediction-Using-Decision-Tree-model/blob/main/Heart%20Disease%20Prediction.jpg"/>
+
 This repository explores real estate data analysis using Principal Component Analysis (PCA) for dimensionality reduction and pattern recognition. The project aims to identify the most significant features affecting property prices by analyzing various real estate metrics. PCA is employed to reduce the complexity of the dataset while retaining the most critical information, making it easier to visualize and understand the relationships between different variables.
 
 # Abstract:
